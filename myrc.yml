@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: myonlineapp-container 
-          image: hub.docker.com
+          image: abolidasari/myimage28feb23:1
           ports:
             - containerPort: 8080
